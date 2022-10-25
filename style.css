@@ -1,0 +1,17 @@
+table{
+    color: whitesmoke;
+    border-style: none;
+}
+
+.c-moda{
+    background-color:  #BB86FC;
+}
+
+.c-casa{
+    background-color: #00C4B4;
+}
+
+td, th{
+    background-color: #424250;
+    padding: 10px;
+}
